@@ -1,4 +1,4 @@
-# &rlm; CSS کے ساتھ کسی بھی چیز کو کیسے درمیان میں رکھیں - div, text اور باقی چیزوں کو align کریں۔ 
+# &rlm; CSS کے ساتھ کسی بھی چیز کو درمیان میں لائیں - div, text اور باقی چیزوں کو align کریں۔ 
 &rlm; ![alt text](https://www.freecodecamp.org/news/content/images/size/w600/2021/06/5f9c9b00740569d1a4ca291b.jpg)
 
 ####  چیزوں کو درمیان میں لانا CSS کے سب سے مشکل پہلوؤں میں سے ایک ہے۔
